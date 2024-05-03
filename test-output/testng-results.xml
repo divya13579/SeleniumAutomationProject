@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19274" started-at="2024-05-01T02:59:55Z" finished-at="2024-05-01T03:00:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19274" started-at="2024-05-01T02:59:55Z" finished-at="2024-05-01T03:00:14Z">
+      <class name="com.extend.OrangeHrmTest">
+        <test-method status="PASS" signature="begin()[pri:0, instance:com.extend.OrangeHrmTest@6adca536]" name="begin" is-config="true" duration-ms="131" started-at="2024-05-01T08:29:55Z" finished-at="2024-05-01T08:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begin -->
+        <test-method status="PASS" signature="OrangeHrm()[pri:0, instance:com.extend.OrangeHrmTest@6adca536]" name="OrangeHrm" duration-ms="19266" started-at="2024-05-01T08:29:55Z" finished-at="2024-05-01T08:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHrm -->
+        <test-method status="PASS" signature="lastExecution()[pri:0, instance:com.extend.OrangeHrmTest@6adca536]" name="lastExecution" is-config="true" duration-ms="247" started-at="2024-05-01T08:30:14Z" finished-at="2024-05-01T08:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecution -->
+      </class> <!-- com.extend.OrangeHrmTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
